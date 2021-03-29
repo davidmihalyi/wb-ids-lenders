@@ -12,7 +12,8 @@ A few summary plots from the dataset.
 
 ![IDS flow](plots/IDS_bilat_snap.gif)
 
-This data was retrieved from WB IDS API and assembled by David Mihalyi and Balint Parragi		
+This data was retrieved from WB IDS API and assembled by David Mihalyi and Balint Parragi.
+
 Source: [WB IDS Statistics 2021](https://datatopics.worldbank.org/debt/ids/)
 		
 Date: March 2021.		
