@@ -1,12 +1,11 @@
 # Who lends to developing countries? 
 ### WB external debt stock data disaggregated by counterparty.
 
-```diff
-!Update: Updated clean excel with WB IDS 2022 data can be downloaded.
-```
-##[Click here for 2022 data](https://github.com/davidmihalyi/wb-ids-lenders/raw/main/data/WB_IDS_2022_by_lender.xlsx)
+### Update: 
+The clean excel with WB IDS 2022 data can be downloaded [here](https://github.com/davidmihalyi/wb-ids-lenders/raw/main/data/WB_IDS_2022_by_lender.xlsx)
+Graphs below are not updated. You can read more about latest trends [here](https://www.cgdev.org/blog/visualizing-debt-service-drag-developing-country-governments)
 
-
+### Earlier 2021 data
 The IDS 2021 dataset assembled can be downloaded [here](https://github.com/davidmihalyi/wb-ids-lenders/raw/main/data/WB_IDS_2021_by_lender.xlsx)  and the raw file is [here](https://github.com/davidmihalyi/wb-ids-lenders/raw/main/data/raw_IDS_all_debt_pos.csv) 
 
 A few summary plots from the dataset.
