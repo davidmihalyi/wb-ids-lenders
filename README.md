@@ -5,7 +5,12 @@
 
 #### Update: 
 The clean excel with WB IDS 2022 data can be downloaded [here](https://github.com/davidmihalyi/wb-ids-lenders/raw/main/data/WB_IDS_2022_by_lender.xlsx)
-Graphs below are not updated. You can read more about latest trends [here](https://www.cgdev.org/blog/visualizing-debt-service-drag-developing-country-governments)
+
+Graphs below are not updated. 
+
+You can read an analysis of the 2022 data [here](https://www.cgdev.org/blog/visualizing-debt-service-drag-developing-country-governments)
+
+
 
 
 
